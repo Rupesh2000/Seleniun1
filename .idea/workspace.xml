@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="AUTOMATION">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/BrokenLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/CountHyperLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/DropDown.java" afterDir="false" />
+    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/ImageLink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumDemo/CountRadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/CountRadioButtons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BrokenLinks">
+  <component name="RunManager" selected="Application.ImageLink">
     <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.BrokenLinks" />
       <module name="JavaAutomation" />
@@ -101,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Customize_Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.Customize_Locator" />
+    <configuration name="CountRadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.CountRadioButtons" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XPathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.XPathDemo" />
+    <configuration name="ImageLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.ImageLink" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageLink" />
+        <item itemvalue="Application.CountRadioButtons" />
         <item itemvalue="Application.BrokenLinks" />
         <item itemvalue="Application.CountHyperLinks" />
         <item itemvalue="Application.DropDown" />
-        <item itemvalue="Application.XPathDemo" />
-        <item itemvalue="Application.Customize_Locator" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674552288767</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all">
+      <created>1674587895562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674587895562</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AUTOMATION" />
-    <option name="LAST_COMMIT_MESSAGE" value="AUTOMATION" />
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
   </component>
 </project>
