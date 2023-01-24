@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/Customize_Locator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/FirstTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/TC_Xpath_Locator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/XPathDemo.java" afterDir="false" />
+    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="AUTOMATION">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/CountHyperLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,29 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "Rupesh2000"
+    },
+    {
+      "searchQuery": "JavaAutomation",
+      "state": "OPEN",
+      "author": "Rupesh2000"
+    }
+  ],
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="47247861-f21c-4eaf-9463-ae0e325e7d28" />
+        <option name="url" value="https://github.com/Rupesh2000/JavaAutomation.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,13 +64,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
-}</component>
-  <component name="RunManager" selected="Application.XPathDemo">
+}]]></component>
+  <component name="RunManager" selected="Application.BrokenLinks">
+    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.BrokenLinks" />
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountHyperLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.CountHyperLinks" />
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Customize_Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.Customize_Locator" />
       <module name="JavaAutomation" />
@@ -66,21 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.FirstTestCase" />
-      <module name="JavaAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_Xpath_Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.TC_Xpath_Locator" />
+    <configuration name="DropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.DropDown" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -107,10 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrokenLinks" />
+        <item itemvalue="Application.CountHyperLinks" />
+        <item itemvalue="Application.DropDown" />
         <item itemvalue="Application.XPathDemo" />
         <item itemvalue="Application.Customize_Locator" />
-        <item itemvalue="Application.TC_Xpath_Locator" />
-        <item itemvalue="Application.FirstTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674411649136</updated>
     </task>
+    <task id="LOCAL-00001" summary="AUTOMATION">
+      <created>1674552288767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674552288767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AUTOMATION" />
+    <option name="LAST_COMMIT_MESSAGE" value="AUTOMATION" />
   </component>
 </project>
