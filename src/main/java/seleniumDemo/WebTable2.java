@@ -36,7 +36,7 @@ public class WebTable2 {
             {
                 String data = driver.findElement(By.xpath("//table[@name='BookTable']/tbody/tr[" + r + "]/td[" + c +"]")).getText();
 
-                System.out.print(" "+ data);
+                System.out.print(" "+  data);
             }
             System.out.println(" ");
         }
