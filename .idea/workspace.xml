@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sampleTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/WebTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,29 +66,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rupes/IdeaProjects/JavaAutomation"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Alerts">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WebTable">
     <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.Alerts" />
-      <module name="JavaAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.DoubleClick" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -138,13 +132,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.WebTable" />
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebTable" />
         <item itemvalue="Application.Alerts" />
         <item itemvalue="Application.UploadFile" />
         <item itemvalue="Application.MouseOver" />
         <item itemvalue="Application.DragNDrop" />
-        <item itemvalue="Application.DoubleClick" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674603004079</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="all">
+      <created>1674643804209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674643804209</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
