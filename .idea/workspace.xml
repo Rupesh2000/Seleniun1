@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/CaptureScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/OpenNewTabOrWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaptureScreenShot">
+  <component name="RunManager" selected="Application.OpenNewTabOrWindow">
     <configuration name="CaptureScreenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.CaptureScreenShot" />
       <module name="JavaAutomation" />
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToolTip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.ToolTip" />
+    <configuration name="OpenNewTabOrWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.OpenNewTabOrWindow" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.WebTable" />
+    <configuration name="ToolTip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.ToolTip" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OpenNewTabOrWindow" />
         <item itemvalue="Application.CaptureScreenShot" />
         <item itemvalue="Application.faceBookToolTip" />
         <item itemvalue="Application.ToolTip" />
         <item itemvalue="Application.WebTable2" />
-        <item itemvalue="Application.WebTable" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674655295807</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="all">
+      <created>1674672865553</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674672865553</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
