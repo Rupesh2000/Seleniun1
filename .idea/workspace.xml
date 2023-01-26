@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/NestediframeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/VerticalScroll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,20 +78,7 @@
       <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestediframeDemo">
-    <configuration name="FluentWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.FluentWait" />
-      <module name="JavaAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VerticalScroll">
     <configuration name="IframeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.IframeDemo" />
       <module name="JavaAutomation" />
@@ -144,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VerticalScroll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.VerticalScroll" />
+      <module name="JavaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VerticalScroll" />
         <item itemvalue="Application.NestediframeDemo" />
         <item itemvalue="Application.IframeDemo2" />
         <item itemvalue="Application.IframeDemo" />
         <item itemvalue="Application.JavaScriptsExec" />
-        <item itemvalue="Application.FluentWait" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674727282275</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="all">
+      <created>1674728690794</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674728690794</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
