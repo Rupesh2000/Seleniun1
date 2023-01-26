@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/FileUploadAutoIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/DatePickerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumDemo/VerticalScroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/VerticalScroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +78,9 @@
       <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileUploadAutoIT">
-    <configuration name="FileUploadAutoIT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.FileUploadAutoIT" />
+  <component name="RunManager" selected="Application.DatePickerDemo">
+    <configuration name="DatePickerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.DatePickerDemo" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IframeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.IframeDemo" />
+    <configuration name="FileUploadAutoIT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.FileUploadAutoIT" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatePickerDemo" />
         <item itemvalue="Application.FileUploadAutoIT" />
         <item itemvalue="Application.VerticalScroll" />
         <item itemvalue="Application.NestediframeDemo" />
         <item itemvalue="Application.IframeDemo2" />
-        <item itemvalue="Application.IframeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674732329483</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="all">
+      <created>1674739755185</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674739755185</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
