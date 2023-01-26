@@ -20,7 +20,7 @@ public class VerticalScroll {
         driver.manage().window().maximize();
 
         //open url
-        //driver.get("https://www.calculator.net/");
+        // driver.get("https://www.calculator.net/");
         driver.get("http://www.album.alexflueras.ro/");
 
         JavascriptExecutor js = (JavascriptExecutor)driver;
