@@ -22,7 +22,7 @@ public class FluentWait<W extends SearchContext> {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\rupes\\OneDrive\\Desktop\\TestAuto\\MyDriver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
-        //for maximize the window browser
+        //for maximize the window brows er
         driver.manage().window().maximize();
 
         //open url
