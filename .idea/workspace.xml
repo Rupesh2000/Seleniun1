@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/AuthenticationPop.java" afterDir="false" />
+    <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="Window Authentication PopUp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/TestNGDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -57,6 +57,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Kh0jxwWwHX2YeUBT5ItQh2tRoW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,7 +71,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rupes/IdeaProjects/JavaAutomation&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rupes/IdeaProjects/JavaAutomation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -80,7 +87,7 @@
       <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AuthenticationPop">
+  <component name="RunManager" selected="TestNG.TestNGDemo">
     <configuration name="AuthenticationPop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumDemo.AuthenticationPop" />
       <module name="JavaAutomation" />
@@ -133,8 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUploadAutoIT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumDemo.FileUploadAutoIT" />
+    <configuration name="TestNGDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -142,17 +148,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="seleniumDemo" />
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.TestNGDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestNGDemo" />
         <item itemvalue="Application.AuthenticationPop" />
         <item itemvalue="Application.DatePickerDemo3" />
         <item itemvalue="Application.DatePickerDemo2" />
         <item itemvalue="Application.DatePickerDemo" />
-        <item itemvalue="Application.FileUploadAutoIT" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674771303022</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Window Authentication PopUp">
+      <created>1675554613961</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675554613961</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +354,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AUTOMATION" />
     <MESSAGE value="all" />
-    <option name="LAST_COMMIT_MESSAGE" value="all" />
+    <MESSAGE value="Window Authentication PopUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Window Authentication PopUp" />
   </component>
 </project>
