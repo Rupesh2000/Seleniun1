@@ -13,7 +13,7 @@ public class LoginTest {
         WebDriver driver = new ChromeDriver();
 
         //Create object of login page
-        LoginPage LoginPg = new LoginPage(driver);
+        LoginPage2  LoginPg = new LoginPage2(driver);
 
         //Open url
         driver.get("https://www.saucedemo.com/");
