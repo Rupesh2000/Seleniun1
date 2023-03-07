@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd5e6bf1-a9b6-4348-8149-26969cfdc271" name="Changes" comment="Cookies_Handling">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EncodePasswordDemo/EncodePasswordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumDemo/LoginForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,28 +65,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rupes/IdeaProjects/JavaAutomation&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/rupes/IdeaProjects/JavaAutomation",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rupes\IdeaProjects\JavaAutomation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EncodePasswordExample">
+  <component name="RunManager" selected="Application.LoginForm">
     <configuration name="CookiesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CookiesDemo.CookiesExample" />
       <module name="JavaAutomation" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PageObjectModelDemo.LoginTest" />
+    <configuration name="LoginForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumDemo.LoginForm" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PageObjectModelDemo.*" />
+          <option name="PATTERN" value="seleniumDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginWithoutPOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PageObjectModelDemo.LoginWithoutPOM" />
+    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PageObjectModelDemo.LoginTest" />
       <module name="JavaAutomation" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoginForm" />
         <item itemvalue="Application.EncodePasswordExample" />
         <item itemvalue="Application.CookiesExample" />
         <item itemvalue="TestNG.CrossBrowserTestingDemo" />
         <item itemvalue="Application.LoginTest" />
-        <item itemvalue="Application.LoginWithoutPOM" />
       </list>
     </recent_temporary>
   </component>
